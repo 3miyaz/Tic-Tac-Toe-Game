@@ -1,3 +1,32 @@
+A game of 'TIC-TAC-TOE' app built using reactJs.
+
+![ttt](https://user-images.githubusercontent.com/46068633/154271109-4c56e5d5-24db-451b-8ecf-ec43bcf57344.JPG)
+
+
+The game supports two players, 'X' and 'O'.
+
+If the game ends has a winner, the winning squares gets highlighted.
+
+![winner](https://user-images.githubusercontent.com/46068633/154271138-ca507e1f-9eb5-40d4-b5ae-a443dd85fd8f.JPG)
+
+
+
+If there is NO winner the game ends in a draw.
+
+![draw](https://user-images.githubusercontent.com/46068633/154271162-12b8aa6d-22b2-4cd8-b842-a7c021552338.JPG)
+
+
+
+You can backtrack your moves by using the goto function.
+
+You can also sort your moves, in addition to option to play new games any time.
+
+![goto](https://user-images.githubusercontent.com/46068633/154271197-23552f20-8408-47af-bb1d-6ee45184c516.JPG)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
